@@ -97,7 +97,7 @@
         "id": "neko2",
         "availability": "2014-08-02T12:50:00+09:00/2017-05-05T23:59:59+09:00",
         "name": "青山学院大学相模原キャンパス",
-        "description": "<p class=\"date\">2014.8.2 12:50</p>",
+        "description": "<p class=\"date\">2016.6.14 1:20</p>",
         "billboard": {
             "scaleByDistance": {
                 "nearFarScalar": [
@@ -108,7 +108,7 @@
                 ]
             },
             "horizontalOrigin": "CENTER",
-            "image": "https://lh3.googleusercontent.com/-oXBsJKHfFXc/VqffkPIDWiI/AAAAAAAHPGo/rMexMDDoAew/s72-Ic42/neko.png",
+            "image": "visual_identity_img_01.jpg2",
             "scale": 0.6,
             "color": {
                 "rgba": [
