@@ -96,7 +96,7 @@
     {
         "id": "neko2",
         "availability": "2014-08-02T12:50:00+09:00/2017-05-05T23:59:59+09:00",
-        "name": "ネコ",
+        "name": "青山学院大学相模原キャンパス",
         "description": "<p class=\"date\">2014.8.2 12:50</p>",
         "billboard": {
             "scaleByDistance": {
@@ -125,7 +125,7 @@
             "cartographicDegrees": [
                 139.403726,
                 35.565991,
-                1800
+                700
             ]
         },
         "label": {
@@ -154,7 +154,7 @@
             "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
-            "text": "ネコ"
+            "text": "青山学院大学相模原キャンパス"
         },
         "polyline": {
             "width": 1,
