@@ -185,7 +185,7 @@
     {
         "id": "neko3",
         "availability": "2014-11-09T08:30:00+09:00/2017-05-05T23:59:59+09:00",
-        "name": "新江ノ島水族館",
+        "name": "ネコ",
         "description": "<p class=\"date\">2014.11.9 08:30</p>",
         "billboard": {
             "scaleByDistance": {
@@ -212,9 +212,9 @@
         },
         "position": {
             "cartographicDegrees": [
-                139.479455,
-                35.309973,
-                100
+                138.6074636,
+                35.4197767,
+                1800
             ]
         },
         "label": {
@@ -243,17 +243,17 @@
             "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
-            "text": "新江ノ島水族館"
+            "text": "ネコ"
         },
         "polyline": {
             "width": 1,
             "positions": {
                 "cartographicDegrees": [
-                    139.479455,
-                    35.309973,
-                    100,
-                    139.479455,
-                    35.309973,
+                    138.6074636,
+                    35.4197767,
+                    1800,
+                    138.6074636,
+                    35.4197767,
                     0
                 ]
             },
@@ -274,7 +274,7 @@
     {
         "id": "neko4",
         "availability": "2014-11-22T19:20:00+09:00/2017-05-05T23:59:59+09:00",
-        "name": "羽田空港",
+        "name": "ネコ",
         "description": "<p class=\"date\">2014.11.22 19:20</p>",
         "billboard": {
             "scaleByDistance": {
@@ -301,9 +301,9 @@
         },
         "position": {
             "cartographicDegrees": [
-                139.778709,
-                35.551502,
-                100
+                138.7607812,
+                35.5073161,
+                1800
             ]
         },
         "label": {
@@ -332,17 +332,17 @@
             "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
-            "text": "羽田空港"
+            "text": "ネコ"
         },
         "polyline": {
             "width": 1,
             "positions": {
                 "cartographicDegrees": [
-                    139.778719,
-                    35.551502,
-                    100,
-                    139.778719,
-                    35.551502,
+                    138.7607812,
+                    35.5073161,
+                    1800,
+                    138.7607812,
+                    35.5073161,
                     0
                 ]
             },
@@ -363,7 +363,7 @@
     {
         "id": "neko5",
         "availability": "2014-12-22T21:00:00+09:00/2017-05-05T23:59:59+09:00",
-        "name": "Eggs'n Things 横浜山下公園店",
+        "name": "ネコ",
         "description": "<p class=\"date\">2014.12.22 21:00</p>",
         "billboard": {
             "scaleByDistance": {
@@ -390,9 +390,9 @@
         },
         "position": {
             "cartographicDegrees": [
-                139.650269,
-                35.444589,
-                100
+                138.7579065,
+                35.5036024,
+                1800
             ]
         },
         "label": {
@@ -421,17 +421,17 @@
             "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
-            "text": "Eggs'n Things 横浜山下公園店"
+            "text": "ネコ"
         },
         "polyline": {
             "width": 1,
             "positions": {
                 "cartographicDegrees": [
-                    139.650269,
-                    35.444589,
-                    100,
-                    139.650269,
-                    35.444589,
+                    138.7579065,
+                    35.5036024,
+                    1800,
+                    138.7579065,
+                    35.5036024,
                     0
                 ]
             },
