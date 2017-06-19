@@ -274,7 +274,7 @@
     {
         "id": "neko4",
         "availability": "2014-11-22T19:20:00+09:00/2017-05-05T23:59:59+09:00",
-        "name": "ネコ",
+        "name": "新江ノ島水族館",
         "description": "<p class=\"date\">2014.11.22 19:20</p>",
         "billboard": {
             "scaleByDistance": {
@@ -301,9 +301,9 @@
         },
         "position": {
             "cartographicDegrees": [
-                138.7607812,
-                35.5073161,
-                1800
+                139.479547,
+                35.309890,
+                300
             ]
         },
         "label": {
@@ -332,17 +332,17 @@
             "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
-            "text": "ネコ"
+            "text": "新江ノ島水族館"
         },
         "polyline": {
             "width": 1,
             "positions": {
                 "cartographicDegrees": [
-                    138.7607812,
-                    35.5073161,
-                    1800,
-                    138.7607812,
-                    35.5073161,
+                    139.479547,
+                    35.309890,
+                    300,
+                    139.479547,
+                    35.309890,
                     0
                 ]
             },
