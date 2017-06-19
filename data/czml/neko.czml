@@ -363,7 +363,7 @@
     {
         "id": "neko5",
         "availability": "2014-12-22T21:00:00+09:00/2017-05-05T23:59:59+09:00",
-        "name": "ネコ",
+        "name": "",
         "description": "<p class=\"date\">2014.12.22 21:00</p>",
         "billboard": {
             "scaleByDistance": {
@@ -390,9 +390,9 @@
         },
         "position": {
             "cartographicDegrees": [
-                138.7579065,
-                35.5036024,
-                1800
+                139.778538,
+                35.552689,
+                400
             ]
         },
         "label": {
@@ -421,17 +421,17 @@
             "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
-            "text": "ネコ"
+            "text": "羽田空港"
         },
         "polyline": {
             "width": 1,
             "positions": {
                 "cartographicDegrees": [
-                    138.7579065,
-                    35.5036024,
-                    1800,
-                    138.7579065,
-                    35.5036024,
+                    139.778538,
+                    35.552689,
+                    400,
+                    139.778538,
+                    35.552689,
                     0
                 ]
             },
