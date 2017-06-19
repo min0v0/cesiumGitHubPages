@@ -363,7 +363,7 @@
     {
         "id": "neko5",
         "availability": "2014-12-22T21:00:00+09:00/2017-05-05T23:59:59+09:00",
-        "name": "",
+        "name": "羽田空港",
         "description": "<p class=\"date\">2014.12.22 21:00</p>",
         "billboard": {
             "scaleByDistance": {
