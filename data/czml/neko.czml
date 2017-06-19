@@ -185,7 +185,7 @@
     {
         "id": "neko3",
         "availability": "2014-11-09T08:30:00+09:00/2017-05-05T23:59:59+09:00",
-        "name": "ネコ",
+        "name": "Eggs'n Things 横浜山下公園店",
         "description": "<p class=\"date\">2014.11.9 08:30</p>",
         "billboard": {
             "scaleByDistance": {
@@ -212,9 +212,9 @@
         },
         "position": {
             "cartographicDegrees": [
-                138.6074636,
-                35.4197767,
-                1800
+                139.650269,
+                35.444589,
+                100
             ]
         },
         "label": {
@@ -243,17 +243,17 @@
             "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
-            "text": "ネコ"
+            "text": "Eggs'n Things 横浜山下公園店"
         },
         "polyline": {
             "width": 1,
             "positions": {
                 "cartographicDegrees": [
-                    138.6074636,
-                    35.4197767,
-                    1800,
-                    138.6074636,
-                    35.4197767,
+                    139.650269,
+                    35.444589,
+                    100,
+                    139.650269,
+                    35.444589,
                     0
                 ]
             },
