@@ -7,7 +7,7 @@
     {
         "id": "neko1",
         "availability": "2014-07-21T09:00:00+09:00/2017-05-05T23:59:59+09:00",
-        "name": "ネコ",
+        "name": "空陸家",
         "description": "<p class=\"date\">2014.7.21 09:00</p>",
         "billboard": {
             "scaleByDistance": {
@@ -34,8 +34,8 @@
         },
         "position": {
             "cartographicDegrees": [
-                138.727418,
-                35.360955,
+                139.668106,
+                35.662758,
                 3999
             ]
         },
@@ -65,7 +65,7 @@
             "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
-            "text": "猫カフェ"
+            "text": "空陸家"
         },
         "polyline": {
             "width": 1,
@@ -197,7 +197,7 @@
                 ]
             },
             "horizontalOrigin": "CENTER",
-            "image": "http://furuhashilab.com/temp/minEggs.png",
+            "image": "http://furuhashilab.com/temp/min0v0_t.png",
             "scale": 0.6,
             "color": {
                 "rgba": [
