@@ -71,11 +71,11 @@
             "width": 1,
             "positions": {
                 "cartographicDegrees": [
-                    138.727418,
-                    35.360955,
+                    139.668106,
+                    35.662758,
                     3999,
-                    138.7274188,
-                    35.360955,
+                    139.668106,
+                    35.662758,
                     0
                 ]
             },
@@ -96,7 +96,7 @@
     {
         "id": "neko2",
         "availability": "2014-08-02T12:50:00+09:00/2017-05-05T23:59:59+09:00",
-        "name": "青山学院大学相模原キャンパス",
+        "name": "ねこのみせ",
         "description": "<p class=\"date\">2014.8.2 12:50</p>",
         "billboard": {
             "scaleByDistance": {
@@ -123,8 +123,8 @@
         },
         "position": {
             "cartographicDegrees": [
-                139.403726,
-                35.565991,
+                139.445999,
+                35.54113,
                 3999
             ]
         },
@@ -154,17 +154,17 @@
             "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
-            "text": "猫カフェ"
+            "text": "ねこのみせ"
         },
         "polyline": {
             "width": 1,
             "positions": {
                 "cartographicDegrees": [
-                    139.403726,
-                    35.565991,
+                    139.445999,
+                    35.54113,
                     3999,
-                    139.403726,
-                    35.565991,
+                    139.445999,
+                    35.54113,
                     0
                 ]
             },
@@ -185,7 +185,7 @@
     {
         "id": "neko3",
         "availability": "2014-11-09T08:30:00+09:00/2017-05-05T23:59:59+09:00",
-        "name": "Eggs'n Things 横浜山下公園店",
+        "name": "ねころび",
         "description": "<p class=\"date\">2014.11.9 08:30</p>",
         "billboard": {
             "scaleByDistance": {
@@ -212,8 +212,8 @@
         },
         "position": {
             "cartographicDegrees": [
-                139.650269,
-                35.444589,
+                139.716599,
+                35.729858,
                 3999
             ]
         },
@@ -243,17 +243,17 @@
             "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
-            "text": "猫カフェ"
+            "text": "ねころび"
         },
         "polyline": {
             "width": 1,
             "positions": {
                 "cartographicDegrees": [
-                    139.650269,
-                    35.444589,
+                    139.716599,
+                    35.729858,
                     3999,
-                    139.650269,
-                    35.444589,
+                    139.716599,
+                    35.729858,
                     0
                 ]
             },
@@ -274,7 +274,7 @@
     {
         "id": "neko4",
         "availability": "2014-11-22T19:20:00+09:00/2017-05-05T23:59:59+09:00",
-        "name": "新江ノ島水族館",
+        "name": "ねこカフェミネット",
         "description": "<p class=\"date\">2014.11.22 19:20</p>",
         "billboard": {
             "scaleByDistance": {
@@ -301,8 +301,8 @@
         },
         "position": {
             "cartographicDegrees": [
-                139.479547,
-                35.309890,
+                139.665146,
+                35.425385,
                 3999
             ]
         },
@@ -332,17 +332,17 @@
             "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
-            "text": "猫カフェ"
+            "text": "ねこカフェミネット"
         },
         "polyline": {
             "width": 1,
             "positions": {
                 "cartographicDegrees": [
-                    139.479547,
-                    35.309890,
+                    139.665146,
+                    35.425385,
                     3999,
-                    139.479547,
-                    35.309890,
+                    139.665146,
+                    35.425385,
                     0
                 ]
             },
@@ -363,7 +363,7 @@
     {
         "id": "neko5",
         "availability": "2014-12-22T21:00:00+09:00/2017-05-05T23:59:59+09:00",
-        "name": "羽田空港",
+        "name": "ねこのすみか",
         "description": "<p class=\"date\">2014.12.22 21:00</p>",
         "billboard": {
             "scaleByDistance": {
@@ -390,8 +390,8 @@
         },
         "position": {
             "cartographicDegrees": [
-                139.778538,
-                35.552689,
+                139.406281,
+                35.332119,
                 3999
             ]
         },
@@ -421,17 +421,17 @@
             "font": "8pt Sans-Serif",
             "verticalOrigin": "BOTTOM",
             "style": "FILL",
-            "text": "猫カフェ"
+            "text": "ねこのすみか"
         },
         "polyline": {
             "width": 1,
             "positions": {
                 "cartographicDegrees": [
-                    139.778538,
-                    35.552689,
+                    139.406281,
+                    35.332119,
                     3999,
-                    139.778538,
-                    35.552689,
+                    139.406281,
+                    35.332119,
                     0
                 ]
             },
